@@ -1,0 +1,53 @@
+c:\users\22967\documents\visual studio 2013\Projects\Vanguard\Vanguard\bin\Debug\Vanguard.exe.config
+c:\users\22967\documents\visual studio 2013\Projects\Vanguard\Vanguard\bin\Debug\Vanguard.exe
+c:\users\22967\documents\visual studio 2013\Projects\Vanguard\Vanguard\bin\Debug\Vanguard.pdb
+c:\users\22967\documents\visual studio 2013\Projects\Vanguard\Vanguard\bin\Debug\NModbus4.dll
+c:\users\22967\documents\visual studio 2013\Projects\Vanguard\Vanguard\obj\Debug\Vanguard.csprojResolveAssemblyReference.cache
+c:\users\22967\documents\visual studio 2013\Projects\Vanguard\Vanguard\obj\Debug\Vanguard.Form1.resources
+c:\users\22967\documents\visual studio 2013\Projects\Vanguard\Vanguard\obj\Debug\Vanguard.Properties.Resources.resources
+c:\users\22967\documents\visual studio 2013\Projects\Vanguard\Vanguard\obj\Debug\Vanguard.csproj.GenerateResource.Cache
+c:\users\22967\documents\visual studio 2013\Projects\Vanguard\Vanguard\obj\Debug\Vanguard.exe
+c:\users\22967\documents\visual studio 2013\Projects\Vanguard\Vanguard\obj\Debug\Vanguard.pdb
+G:\Vanguard\Vanguard\bin\Debug\Vanguard.exe.config
+G:\Vanguard\Vanguard\obj\Debug\Vanguard.exe
+G:\Vanguard\Vanguard\obj\Debug\Vanguard.pdb
+G:\Vanguard\Vanguard\bin\Debug\Vanguard.exe
+G:\Vanguard\Vanguard\bin\Debug\Vanguard.pdb
+G:\Vanguard\Vanguard\bin\Debug\NModbus4.dll
+G:\Vanguard\Vanguard\obj\Debug\Vanguard.csprojResolveAssemblyReference.cache
+G:\Vanguard\Vanguard\obj\Debug\Vanguard.Form1.resources
+G:\Vanguard\Vanguard\obj\Debug\Vanguard.Properties.Resources.resources
+G:\Vanguard\Vanguard\obj\Debug\Vanguard.csproj.GenerateResource.Cache
+C:\Users\22967\Desktop\Vanguard\Vanguard\bin\Debug\Vanguard.exe.config
+C:\Users\22967\Desktop\Vanguard\Vanguard\obj\Debug\Vanguard.exe
+C:\Users\22967\Desktop\Vanguard\Vanguard\obj\Debug\Vanguard.pdb
+E:\联合编程\vanguard测试版\Vanguard\Vanguard\bin\Debug\Vanguard.exe.config
+E:\联合编程\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.exe
+E:\联合编程\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.pdb
+E:\联合编程\vanguard测试版\Vanguard\Vanguard\bin\Debug\Vanguard.exe
+E:\联合编程\vanguard测试版\Vanguard\Vanguard\bin\Debug\Vanguard.pdb
+E:\联合编程\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.csprojResolveAssemblyReference.cache
+E:\联合编程\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.Form1.resources
+E:\联合编程\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.Properties.Resources.resources
+E:\联合编程\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.csproj.GenerateResource.Cache
+E:\联合编程\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.MainForm.resources
+C:\Users\22967\Desktop\vanguard测试版\Vanguard\Vanguard\bin\Debug\Vanguard.exe.config
+C:\Users\22967\Desktop\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.exe
+C:\Users\22967\Desktop\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.pdb
+C:\Users\22967\Desktop\vanguard测试版\Vanguard\Vanguard\bin\Debug\Vanguard.exe
+C:\Users\22967\Desktop\vanguard测试版\Vanguard\Vanguard\bin\Debug\Vanguard.pdb
+C:\Users\22967\Desktop\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.csprojResolveAssemblyReference.cache
+C:\Users\22967\Desktop\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.Form1.resources
+C:\Users\22967\Desktop\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.MainForm.resources
+C:\Users\22967\Desktop\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.Properties.Resources.resources
+C:\Users\22967\Desktop\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\vanguard测试版\Vanguard\Vanguard\bin\Debug\Vanguard.exe.config
+C:\Users\Administrator\Desktop\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.exe
+C:\Users\Administrator\Desktop\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.pdb
+C:\Users\Administrator\Desktop\vanguard测试版\Vanguard\Vanguard\bin\Debug\Vanguard.exe
+C:\Users\Administrator\Desktop\vanguard测试版\Vanguard\Vanguard\bin\Debug\Vanguard.pdb
+C:\Users\Administrator\Desktop\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.Form1.resources
+C:\Users\Administrator\Desktop\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.MainForm.resources
+C:\Users\Administrator\Desktop\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.Properties.Resources.resources
+C:\Users\Administrator\Desktop\vanguard测试版\Vanguard\Vanguard\obj\Debug\Vanguard.csproj.GenerateResource.Cache
